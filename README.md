@@ -1,2 +1,2 @@
 # LocalSearchPicture
-Recreating Pictures using GA and Hill Climbing
+Recreating Pictures using Genetic Algorithm
